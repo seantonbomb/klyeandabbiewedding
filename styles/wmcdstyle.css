@@ -45,3 +45,10 @@ body {
     margin-top: 10px;
     display: inlines;
 }
+
+h1 {
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
