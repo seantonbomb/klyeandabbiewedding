@@ -1,7 +1,7 @@
 const currentDate = new Date();
 console.log(currentDate);
 
-const targetDate = new Date('2024-09-21T02:59:59');
+const targetDate = new Date('2024-09-21T14:59:59');
 console.log(targetDate);
 
 const difference = targetDate - currentDate;
